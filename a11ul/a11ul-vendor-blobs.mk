@@ -107,6 +107,9 @@ PRODUCT_COPY_FILES += \
     vendor/htc/a11ul/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/htc/a11ul/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/htc/a11ul/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
+    vendor/htc/a11ul/proprietary/bin/btnvtool:system/bin/btnvtool \
+    vendor/htc/a11ul/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
+    vendor/htc/a11ul/proprietary/lib/libbtnv.so:system/lib/libbtnv.so \
     vendor/htc/a11ul/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/htc/a11ul/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/htc/a11ul/proprietary/etc/firmware/alIAF_InData_4M2M:system/etc/firmware/alIAF_InData_4M2M \
