@@ -22,6 +22,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/a31ul/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/htc/a31ul/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/htc/a31ul/proprietary/lib/libhtc_rilhook.so:system/lib/libhtc_rilhook.so \
+    vendor/htc/a31ul/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/htc/a31ul/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/htc/a31ul/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/htc/a31ul/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
